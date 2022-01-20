@@ -1,0 +1,56 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.photo-slider-background{
+    background-color: #FEEAE9;;
+}
+.caro-box{
+    border-radius: 10px;
+}
+.search-grp-input::-webkit-input-placeholder { 
+    font-family: FontAwesome;
+    font-weight: normal;
+    overflow: visible;
+    vertical-align: top;
+    display: inline-block !important;
+    padding-left: 5px;
+    padding-top: 2px;
+    color: gray; 
+}
+.search-grp-input:focus{
+    border: none;
+}
+.highlight-banner-text{
+    color: #FF136F;
+}
+.main-background{
+    background-color:  #F4F4F4;;
+}
+.caro-box .my-btn-color{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: none;
+    color: #fff;
+}
+
+.cata-clock-back{
+    background-image: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);;
+}
+.cata-bag-back{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.cata-shoe-back{
+
+    background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+    
+}
+.contact-background{
+    background-color: #FFF2F1;;
+}
+#contact-us .my-btn-color{
+    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: none;
+    color: #fff;
+}
